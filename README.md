@@ -9,7 +9,7 @@ In order to run on a local system, please follow the steps below
 5) Move to that directory and run the command "pip install -r requirements.txt" on the terminal.
 6) Finally run python main.py and navigate to the localhost url displayed on the terminal to interact with the webpage.
 
-Please look into the document "design choices" to understand the flow code and the associated choices with design and answers to the questionnaire.
+Please look into the document "design choices.md" to understand the flow code and the associated choices with design and answers to the questionnaire.
 
 
 
